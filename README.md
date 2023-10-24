@@ -11,6 +11,9 @@ Le dossier "Key/Value" dans l'interface de Consul fait référence à l'interfac
 
 ![image](https://github.com/OuakilManal22/Mise-en-oeuvre-des-architectures-microservices--Consul-et-Vault-config--/assets/105586177/d2463289-eaf6-4db5-92ee-eb7183d79a89)
 
+![image](https://github.com/OuakilManal22/Mise-en-oeuvre-des-architectures-microservices--Consul-et-Vault-config--/assets/105586177/c9a05b5c-c162-485a-a85c-282282e0bd4c)
+
+
 ![image](https://github.com/OuakilManal22/Mise-en-oeuvre-des-architectures-microservices--Consul-et-Vault-config--/assets/105586177/6ac1c514-d879-43dd-a80d-49277b76747f)
 
 La classe MyConsulConfig est un composant Spring géré, configuré pour lier des propriétés de configuration avec un préfixe "token". Les valeurs de configuration commençant par "token" dans le fichier de configuration seront automatiquement assignées aux champs de cette classe, facilitant ainsi la gestion des paramètres de configuration dans une application Spring Boot.
